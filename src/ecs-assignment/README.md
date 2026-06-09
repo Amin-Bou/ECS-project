@@ -36,6 +36,8 @@ yarn global add serve
 serve -s build
 ```
 
+Next draw the architecture diagram to plan out whole infra
+
 ## Useful links 🔗
 
 - [Terraform AWS Registry](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
